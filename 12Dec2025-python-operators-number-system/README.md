@@ -92,8 +92,8 @@ Operate on binary numbers.
 | & | AND |
 | \| | OR |
 | ^ | XOR |
-| << | Left Shift |
-| >> | Right Shift |
+| << | Left Shift - x * (2^n)|
+| >> | Right Shift - x // (2^n)|
 
 Example:
 ```python
@@ -102,14 +102,6 @@ b = 3
 print(a & b)
 print(a | b)
 ```
-
-#### LEFT SHIFT ( \<\< )
-
-`x << n = x * (2^n)`
-
-#### RIGHT SHIFT ( \>\> )
-
-`x >> n = x // (2^n)`
 
 ---
 
