@@ -1,0 +1,31 @@
+Create a complete Python application using Streamlit for booking flights from Hyderabad (HYD) to Goa (GOI) with the following requirements:
+
+1. The app should have a clean UI with:
+   - A title and short description.
+   - Date selector for departure and return dates.
+   - A table or card-style list showing flight options.
+
+2. Features required:
+   - Show at least 3–5 flight options for Hyderabad → Goa.
+   - Show at least 3–5 options for Goa → Hyderabad (return).
+   - Each flight option should include:
+        • Airline name
+        • Departure time
+        • Price
+        • Duration (optional)
+   - User should select one going flight and one return flight.
+   - Automatically calculate total price.
+
+3. When the user clicks "Book Ticket":
+   - Show booking summary in a nice layout.
+   - Include:
+        • Departure date, return date
+        • Selected flights with prices
+        • Total amount
+        • Success message
+
+4. Use Pandas DataFrame internally to store the flight lists.
+5. Use Streamlit components like st.radio, st.button, st.success, st.subheader, st.columns, etc.
+6. The final code should be fully runnable as `streamlit run flight_app.py`.
+
+Generate the full Python code in one piece without placeholders.

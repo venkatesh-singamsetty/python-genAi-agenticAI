@@ -1,0 +1,1601 @@
+===== ADVANCED BOOTCAMP ON AI, GEN AI, AGENTIC AI , 20th Nov @ 5:30pm ====
+Webinar Link: https://zoom.us/j/84122495212
+===============
+
+1- warm welcome to naresh it 
+2- Scan this qr code -- Nareshit WhatsApp group ( we will post notes, course syllabus, pdf)
+3- If any one got error qr code no need to ( I will share mid of the session ) 
+4- 
+
+Dear learner I will talk to you at the end of the session (clear)
+just calm down ( I will speak with you) most of thing would be cler
+
+===
+course name
+who can join this course
+pre requisite to learn this course 
+
+what ever laptop you have carry on e
+if your laptop slow I will guide you 
+
+if you want to buy new laptop 
+	8gb - 16gb - 32 gb 
+	>i5 core processor 
+
+==== 24th
+
+As demo is going on few basic topic I will 
+
+I will start the main classes from today onwards
+
+who ever joined 1st time I will take backup class for 20min and also I will share the recording for you guys 
+
+experience & working profession please please please calmdown and if you have any question I will answer to you after 45 min ( we will discuss ) -- request you 
+
+I will take the back up classes 
+
+lets start installation vs code and extension which help to build agenti ai platform 
+	gen ai, ai project 
+using python as well 
+every thing I will teach from scratch to expert level 
+brand new batch -- 2 days ago I haven't start 
+
+please after you speak I will listern 
+
+=============
+Generative AI & Agentic AI @ 5:30 PM (IST) -->
+
+Day-1 https://youtu.be/FstXAG5czbo
+Day-2 https://youtube.com/live/oKzJ5BE8vVc?feature=share
+============
+
+1st time joiner 
+exper-- Just listen then I address 
+fresher -- just follow me and continue 
+
+==== IDE ( integrated development environment)
+
+gen ai, agenti ai programme we need to 1 program language
+
+python -- to learn we need to install some application 
+
+
+ide -- user or developer write the code, debug the code & get output
+
+popular ide -- 
+
+	VS CODE & extension 
+		GITHUB (4 month for gen ai & agentic ai)
+		jupyter 
+		spyder
+		google colab
+
+
+online team -- I proper wifi connect 
+
+== vs code explanation 
+
+Download from google & install as per your os 
+
+install some extension for ds, da, ai, ml, genai, agentic ai, llm 
+
+1- AREPL for python
+2- AutoDocstring - Python Docstring Generator
+3- Cline
+4- Code Runner
+5- CodeSnap
+6- Docker
+7- GitHub copilot
+8- Jupyter 
+9- Markdown pdf
+10- Office viewer
+11- Pdf viewer
+12- Python extension pack 
+
+the learner, experience who are very much slow in typing so please listen the classes only after the class I will share you the recording please follow 
+
+after install the vs extension --> 
+please google -- python 3.12 or 3.13 -- install that  
+vs code -- terminal -- go to theat path location -- creat folder 
+
+vs code -- how to install | we install extension to work gen ai & agentic ai project
+
+we create .ipynb file -- we worked(tested all the code)
+we create .py file -- we worked (tested all the code) 
+
+appreciate the learne who completed 
+the one who got error please to fix the code 
+mac  user got issue 
+===
+extension of word -- .doc 
+extension of pdf -- .pdf
+exten xml -- .xml
+exten html -- .html 
+
+exten python -- .py
+exten of python jupyter notebook -- .ipynb 
+When user write .ipynb -- cell will be create 
+====
+
+today I told you every one please install vs code 
+vs code windw & mac (you got some bug) 
+please try spend some time on error -- ( tommrow I want everybody finish the proper instlation)
+.ipynb  | .py 
+do not worry about errors ( with out error no developer) 
+
+== we learned vs code installation complete, setup completed, code testing completed
+	test.ipynb ( interactive python notebook) 
+	test.py ( python extension) 
+
+==== 25th 
+
+Today is 4th day of the new batch gen ai & agentic ai 
+revise 3day 
+
+
+- the learner who joined for the 1st time or 2nd time don't worry I will take the backup classes 
+- if you have any question I will speak with you at last of the session 
+- today I will windup all demo and tomorrow we will python 
+
+---
+agenda for today session -->
+---
+1- Anaconda ( jupyter, spyder)
+2- GitHub creation 
+3- Gen ai vs agentic ai 
+4- revise and final summary of the demo 
+5- recap all the session 
+6- spend more time if any one has any has any question 
+
+
+how many of them does not has git account 
+if you have git and but not used -- similar like 
+
+shall we create one git account 
+
+
+resume -- abroad ( mostrly they at your git account)
+cicd pipeline sing git
+mcp(model context protocol)
+
+GitHub -- private & Public 
+Bitbucket -- repository used only company ( private) 
+all project must has gitrepo for do not have delate access 
+
+1- Steps to create GitHub 
+
+	Google -- GitHub.com 
+	signin with your existing gmail account 
+	home screen 
+	click on repository (folder) 
+	new repo ( new folder) 
+
+when ever you do any code immediaty please upload in your git 
+
+resume -- you must need to  mention git account
+
+1st GitHub creation done 
+after complete you can share your GitHub 
+
+4month -- every day what ever you guys can complete please uploa your code to git account
+	trakcing 
+
+1- we create GitHub 
+2- generative ai vs agentic ai 
+
+	generative ai -- ai generate code , text, image, video, audio user need to take the code 
+			work in vs code or any ide to build app for the project 
+
+	agentic ai -- virtual developer or virtual agent write the code, debug, code compilation
+			install framework, every thing done by virtual agent and give app for your 			project 
+
+ 	organization 10 developer require ( 3-4 developer ) agentic ai framework
+		cuz of this comapy cost saving, automization , that's more lay off is goingon 
+		
+
+2010, 2017 -- recission was happened 
+2025 onwards -- backfill once the recission has done 
+
+	ai vs gen ai vs agentic ai 
+	
+	ai -- user or developer train the data( excel, imgae, video, audio) 
+	gen ai -- user not train the data data trained by openai, google, meta, deepseek 
+	agentic -- agents will connect to llm model + connect to webtools -- build agent to automize the project 
+
+
+FULL STACK -- BACKEND + FRONTEND 
+
+	BACKEDN -- GEN AI MODEL 
+	FRONT END -- STREAMLIT , GRADIO
+
+	GEN AI & AGENTIC AI --- ML, AI, GENAI, AGENTIC AI 
+
+AGNTIC AI -- 2025 ( 15DAY ) 
+
+GEN AI & AGENTIC -- 2MONT 
+
+python -- ml -- ai -- gen ai - agenti ai -- jobs - saloary hike 
+
+
+so far we have only 4day today 
+
+yester -- vs code 
+today -- GitHub 
+	anaconda 
+	google colab 
+
+cloud required --- code + cloud 
+	20yr ( cloud)
+
+build compnay (deployment) 
+Do not hypo ai tools -- by learning ai tool you 
+llm model require more -- 10yr in job 
+	
+gold -- melt, heat -- ornaments 
+1.30 - bug, debug, learning -- success
+no boday -- never ever get job ( hard fact) 
+
+1- GitHub create
+2- google colab
+3- anaconda installation 
+
+	google - anaconda navigator -- give your gmail id -- select os -- download 
+	install the application 
+	next - next - next 
+
+1- vs code installation along with extension -- completed 
+2- anaconda with jupyter -- completed 
+3- google colab -- complete
+4- GitHub createion 
+
+
+5:30PM BATCH PLEASE INSTALL ALL THE LIBRAR COME TOMORROW 
+	WE WILL START PYTHON 
+
+4monts -- 6yr experience expertise 
+	more strong ( calm down) 
+
+
+skill is import then everything 
+skill magnet the money (sigma rule)  
+
+skill- project -- resume -- interview -- fail -- offer ( 10)
+
+please don't join course as
+join hunger to get job or hunger to gain skill till last day of the life 
+	software developer cycle 
+	
+jupyter  - cpu vs google colab - gpu
+excel sheet -- system excel sheet -- online 	
+
+
+
+==== 26th
+---
+Agenda for today session -->
+----
+1- Python introduction - completed 
+1- Google Classlink -- completed 
+2- Confirmation of Software Installation - completed  
+3- About Notes, Task, Project, Poc, Resume Project -- day wise I will give assignment 
+4- Q & A 
+
+world we have many programming language 
+top 5 programin language in the world
+ 1- python 
+ 2- java
+ 3- golang
+
+python -- db, cloud, scripting, ml, ai, genai, agenti ai, 
+	
+c -- doesnot support object 
+c++ - doens support function 
+python doesnot support android application, mobile device 
+	rest of thing very powerfull
+
+open source fantasting program -- python 
+
+	python you cant build agenti ai project 
+
+-- you are some one have 0 knowledge (thing to learn ) easy compare to java, c, c++ 
+-- java 20 line of code | 4 line of code 
+-- python is object oriented program 
+-- python name comes 'complete monty python's flying circus' broadcasted in bbc channel 
+-- java 1995 python 1989 
+-- python was old programming lang then java 
+-- 1989 no body used python 
+-- python used heaviy from 2017 onward, ml world, 
+-- java- childhoom ,.net, sql, -- old program
+-- 2017 - 2020 ( ml jobs very scope)
+  2020- 23 ( ai will rule the world)
+ 2023- 2024 ( generative ai, llm model, prompt engineer)
+ 2025 - agentic ai 
+2020 -- quantum computing 
+
+-- python pvm (python virtual machine) 
+-- platform independent & no need to change the code for one platform to other platform 
+	1 code ( window, mac, Linux) 
+-- static constant & dynamic -- change based on the situation 
+-- def system au | datatype| dta structure 
+
+ANACONDA PYTHON --- BIG DATA, DATASCEINCE, ML, AI, 
+
+python: hit enter -- system bydefault taken as 4 space
+that's you can find nested loop ( nested loop) 
+
+
+project -- company 
+
+IDE -- integrated development environment 
+	user can write the code, debug the code 
+	vs code, jupyter, spyder 
+
+Vs code with extension 
+Anaconda -- Jupyter & Spyder
+Google collab 
+
+
+interpreter vs compiler 
+
+execute the code line by line -- interpreter 
+	piece of code - interprete 
+
+compiler -- execeu entire code at once -- compilier 
+
+does python -- compiler or interpreter or both 
+
+== then get the google classrrom as soon as possible 
+== I stated the program 
+
+=== pointer ===
+
+1- lerners exper or fresher if you joined session for 1st time I will take the back up class at last of session 
+2-  I will also shared the 3days recordin session (1st time learners) 
+3- I will recap all the classes what we leared since 3 days 
+4- in demo session lot of student will come and 
+	
+	ai, genai, agentic ai for 2026 and beyond 
+5- aws, will you aws, c, java  --- 
+6- equal minded what everyday I will answer to your question 
+
+
+==== 27th 
+
+Agenda for today session -->
+---
+1- Revised yesterday topic - done 
+2- how to download class notes from google classroom -- DONE
+3- knowledge graph  - DONE 
+4- who ever registered about gmail was enrolled in classrrom  -- DONE 
+5- basic python today & keep doing this -- COMPELTE 
+6- discussed student question if you have any 
+
+
+
+how to download class notes from google classroom 
+--
+
+1- Everyone you need to download winzip or WinRAR
+		https://www.win-rar.com/start.html?&L=0
+2- what ever notes I am sharing on daily basis please click the notes 
+3- right side top right corner 3 dots 
+4- click on 3 dots - open in new tab -- download 
+5- go to download -- extract the file 
+6- if the file is pdf ( double click pdf wil open)
+7- if the code file .py or .ipynb ( then it will open using vs code or jupyter
+8- 1st time or 2nd tim unable to opne please don't angry 
+9- calm down & be patience,
+10- successfully we download classnote from google room
+11- after complete your project, please upload the classroom 
+===== 
+
+
+r & d in generative ai & agentic ai 
+poc in gen ai & agentic ai 
+deployment part 
+gen ai -- 2023 end of the year 
+agenti ai -- 2025 -- in this year 
+
+
+bodmas (bracket,order,div,mul,add,sub)
+
+
+1- NUMBER ( Numerical data) 
+
+online student who ever non technical please try to listen what I am speack 
+do not worry about your errors only 
+
+
+if you don't under simplet thin plese don't join
+if you are slow in typing please listen the clas then practicle later 
+4mont -- 6yr topics 
+make your exper 6yr ai, gen ai, agentic ai 
+think in matrure (fresher) 
+
+_ it wont give outpour 
+	system versioonissue 
+
+
+1- work with number (numerical data) 
+   work with _ ( it call previous output)
+
+2- work with text  (string) 
+
+	non technical -- number, text 	
+	prograing - int, string 
+
+3- text always write with '' , "" , ''' ''' 
+
+	single quotes & double quotes -- workin single line 
+	triple quotes -- multilne comments 
+
+download kgf movie conet 
+	upload the text clenain ''' ''' 
+
+''' ''' we are using to build some ai  program 
+
+AI IS NOT KILL THE JOBS
+THE GUY WHO LEARN AI HE KILL THE THE 
+AGENTS ARE KILL THE JOB 
+
+_previous result 
+
+====== 28th
+
+PYTHON VARIABLE 
+
+EVERY ONE HAS NAME
+
+PYTHON ALSO HAS NAME 
+
+NAME == (VARIABLE = IDENTIFIER = OBJECT)
+
+syntax of varieb = (variable name = value)
+
+a = 5 
+a - variable
+5 is the value 
+
+value also called as datatype 
+---
+Rules to define variable -->
+---
+
+1- variable are case sensitive 
+	nit = 5 | NIT which is wrong | nit 
+
+2- variable doesnot start with digit but end with digit 
+
+3- special character is not allowed except _ 
+
+4- keywords are not define as variable 
+	keyword = reserved hotel 
+
+
+python we called the function  with . 
+functions always ends with () 
+id()
+
+variable and function 
+
+values are assigned to value 
+function always ends with () 
+
+family1(d, m) --> family1 function with 2argument or 2 parameter 
+family2(d, m, s, d) --> family2 function with 4 argument or 4 parameter 
+
+chatgpt model trained with billion of parameter that cpu macine are not working 
+	gpu machine ( google colab) 
+
+variable == value 
+python variable we are completed 
+python function ends with () 
+function
+
+=== 1st 
+
+AGEDA ->
+
+DataTypes  
+Typecasting  
+print()
+
+1- download WinRAR or winzip from google 
+2- download & Install this software 
+3- 
+
+gen ai  & agenti ai 
+
+10th grade without
+
+without python, ml, ai -- genai & agenti ai is highly impossible 
+donot hypnto -- youutbe trailer 
+background -- marketin 
+
+syntax of variable = value 
+
+variable -- object or identifer
+value is called datatypes 
+
+a = 5 
+
+a is variable 
+5 int value | int datatypes 
+
+int - value without decimal is called int 
+float - value with decimal is called float
+	only e letter is allowed exponential 
+	 
+	value with decimal 
+
+bool -- completed 
+
+
+python when every you define true , false , none  T, F, N
+'true'
+
+int, float, bool 
+
+complex -- other programming language we don't see complexdatatype only in pyton 
+
+syntax -- a + bj ( only j letter is allowed not any other letter are alloed)
+
+a - real part 
+b - imaginary part 
+j - squre root of -1 
+
+complex use big 
+
+int - value without decimal  a = 4
+
+float - value with decimal (f = 102300.67)
+
+bool - True or False ( when you add + - True -- 1 & False - 0 
+
+complex -- 10 + 20J ( only j letter is allowed) 
+
+=== string indexing 
+
+forward indexing ( always begins with 0)
+backward indexing (always begins with -1) 
+
+slicing : -- print all element 
+
+2: -- print element or value from 2nd index
+
+:5 -- print element or value from start index till n-1 
+	n-1 formula is always apply to right index 
+2:10 -- print element or value from 2nd index ill 10-1 till 9th 
+
+
+language == text 
+when the text is large ( internet) 
+ecosystem to crat or handle text from internet ( opneai, gemin) large language model 
+
+if you work in with data ( data is excel ) -- machie learning 
+if the data is image, text, video, audio -- artificial intelligence
+	AI -- user or developer train some text -- AI project
+
+data is automiatically train by open user no need to feed the text or image to mdod
+	user just need to write the prompt -- gen ai project 
+		gans 
+
+llm + virtual agent == rather user write the code ( agent will write the code) - agentic ai
+
+== basic python 
+	variable 
+	datatypes we are completed 
+
+==== 2nd 
+technical part -->
+--
+1- python type casting -- completed 
+2- print() 
+
+Instruction for 4 month session -->
+--- 
+3- tomorrow onwards who ever registerd you need to from the portal
+4- update your regular works GitHub so that repo should be & also make linkedin powerfull 
+5- question & answer today 
+
+
+vehicle() -- 0 argument or 0 parameter 
+car(swift) -- car function with 1 argument 
+cars(swift, audi, bmw) -- cars function with 3 argument 
+
+
+cast from all other data type to data type 
+
+
+while we do type casting from other datatype to int()
+
+complex is not possible & string with text is not possible 
+rest of the datatypes are possible 
+
+
+other datatype to int & float except text string, complex 
+other datatype to bool & string no issue 
+other datatype to complex ( should not pass 2 string ) & test string also not possible
+
+print() -- very very important 
+
+1- print result with string ( print with msg end user -- clarity) 
+
+2- print format method  ( variable are not in {} but we define {} for the variable 
+
+3- f-string short form (variable are define in {var}
+	
+
+=========
+prompt engineer ( what are multile way to create prompt in python)
++
+llm model api key 
++ 
+prompt engineer parameter(temp = 0.2, top-p, top-k)
+
+====  prompt engineer projects 
+
+
+data| exce if you have no value then null -- fill null value ( code 
+
+
+what ever document I am sharing to you theare are lot of research task has assigned to you 
+
+you job is not to complex the task 
+task is some where is align to real time work  
+
+=== 
+
+concept already create by python ( you don't want to change concept)
+working professional -- you want change everying what if  like 
+don't be researcher 
+every company workin on project 
+project no body used all the python code  
+
+4 months -- you really enn and you will talk to the world 
+you vs new ai world 
+
+
+==== today is last day of the free classes
+=== do not get new link when the class started 
+	please get the link before 1hr or 2hr 
+=== If you registered areef is shared the google classroom in whats app
+== learning is learning for everyone ( usa, uk, mars, Jupiter, sun) 
+== 4month ( 6yr topics) 
+== everyday please revise atleast 1 hr even though you don't have time)
+== you will drop in mid of classes
+== live is always live 
+
+if you have any question feel free to ask 
+	25k -- money 
+all the best 4 months 
+
+=== 3rd 
+Agenda -->
+--
+Python data structure -->
+
+	Inbuild data structure or build in -->
+		list 
+		tuple
+		set 
+		dict
+		range 
+	user define data structure 
+		array
+		linked list
+		tree 
+		
+user define data structure take care by some library or package or framework 
+
+python data structure -->
+
+data type 
+vs 
+data structure
+vs 
+array
+vs 
+dataframe 
+
+
+======
+Data type - user define only 1 value || a =5, b = 5.5, c= 'nit' etc 
+	
+	int, float, bool, comp, string
+	
+Data structure -- user define more then 1 value 
+			a1 = [1,2,3] b1 = ('a', 'b', 3.5)
+	list, tuple, set, dict, range 
+
+Matrix -- Array (1d, 2d , nd) 
+	1d, 2d, nd, transpose, flatten etc 
+
+Dataframe - table ( rows * columns) 
+	company works with db -- collection of table (row*column) 
+
+=====
+scaler  == number 
+vector == collection scaler 
+matrix == collection of vector
+tensor == collection of matrix 
+===== 
+package vs module vs function 
+====
+package == framework == library
+	collection of module
+
+module == collection of function
+function == inbuild() | user define()
+
+
+====
+from dmart_store.cloting import jeans
+dmart - pkg 
+clothing - module 
+jeans - function 
+
+from sklearn.tree import decissiontreeclassifier  
+
+===
+DATA STRUCTURE 
+LIST == 
+from tomorrow [] -- 
+
+
+array - homogeneous 
+list - heterogeneous
+
+if you are typing is slow then please just listen the class ok team.
+
+technical topic -- simple 
+
+====9th 
+
+tab on function-- disply list of inbuild function 
+function call with . | variable will assigned with _ 
+
+list is mutable | changeable 
+once user define the value later user can change the values 
+
+if you are new learner 0 knowledge 
+======
+
+pop() - index level remove element 
+remove() -- remove the value based element wise 
+mutable -- 
+
+sorting is not possible when user declare multiple data types 
+sort is possible only when user decare similar datatypes 
+
+parameter tunning -- sytem given own parameter 
+hyperparameter tunning -- user change the system parameter 
+
+laptop - 11 os ( parameter)
+laptop - 10 os (hyperparameter) 
+
+
+during ml journey ml model accuracy will increase by using hypererparameter tunning 
+
+LIST IS COMPLETE TODAY 
+
+=== 
+
+l = []
+t = () 
+
+list is mutable 
+tuple is immutable 
+
+==== 10th 
+
+set -- {} {}
+
+set some time act as mutable & also immutable 
+
+when user pass same datatype then only order is allowed or else not 
+
+do not compare java - python , 
+c - python 
+c++ - python 
+
+
+data type 
+data structure 
+matrix 
+table 
+tensor 
+scaler 
+vector
+tensor 
+
+append() vs add() 
+list() vs set() 
+
+discard() & remove() 
+
+discard() -- never through you error if element is not member of variable 
+remove()== will through you error if element is not family member
+
+union | = merge set
+intersec & = common element
+difference - = remove the common element display element from 1st variable only it wont print 
+		element from 2nd variable 
+symmetric difference ^ = skip commom elemenbt and print element for both set 
+
+
+superset() == dad 
+subset() == son 
+disjoint() == neighbour 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+python data structure -->
+---
+LIST -->
+--
+1- define with []
+2- append() -- add the value at the end of the list 
+3- copy() - copy from one list to another list 
+4- multiple datatype in the list (heterogeneous) 
+5- duplication is allowed 
+6- list is growable 
+7- clear() the value from the list 
+8- using del keyword we can delate the variable 
+9- insert() insert the value before index
+10- pop()- remove value from the list by index wise if user didn't pass any argument 
+		bydefault at last 
+11- remove() - remove the value from the list 
+12- reverse() - reverse the list 
+13- extend() - extend for one list to another ( merging) 
+14- sort() - ascending & descending sort when user declare similar datatypes 
+
+== TUPLE 
+
+1- Tuple duplication is allowed
+2- Index & slicing is allowed 
+3- Count() is allowed
+4- Multiple datatype we can define
+
+
+
+
+====
+python ml, -- ai tools 
+ai ( nlp, dl, nn )--- ai tools 
+gen ai -- ai tools 
+agentic ai -- ai tools 
+after complete everytopics -- ai tools 
+=====
+
+string slicing
+list slicing
+array slicing
+data frame slcing
+slicing in machine learning 
+
+
+when ever I am speakiong please listen first 
+after class do all research 
+
+
+reason for not understanding 
+
+1- I am speaking you are thinking something
+2- I am wile work or you may be you are doing what every brain is explanation  
+
+===== 11th
+
+LIST = [] TUPLE = () SET {}, DICT -- {}
+
+format to define dictionary {keys:values}
+most import goes keys rather then values 
+
+list & dict is mutable ( you can what ever you want)
+tuple is immutable 
+set do not speak mutable or immutable (behave based on situation) 
+
+4day on ds that's why dict become easy for you 
+
+
+
+basic python 
+advanced python 
+oops python
+	class 
+	method
+	object
+	encapsulation
+	inheritance
+	polymorphism
+	abstraction 
+
+llm model -- you can call api key -- project are complete
+why we are calling api key -- what is challengae 
+organization -- any project -- without chanlange
+more important goes to keys 
+
+list, tuple, set, dict -- we are completed 
+
+range () max user can define only 3 argument
+
+1st argument - start
+2nd argument - stop
+3rd argument - step 
+
+=== list vs tuple vs set vs dict vs range ( can you make comparsion sheet) 
+=== future reference which helps to crake interview
+
+==== 13th
+for comparing the 2 variable we will be using relation operator 
+
+logical operator 
+
+and 
+or 
+not 
+
+== NUMBER SYSTEM 
+
+BINARY number system (base 2) - 0b
+octal number system (base 8) - 0o
+decimal number system (base 10) - 0x
+hexadecimal number system (base 16) - 0xabcdef | a-10, b-11, c-12, d-13,e-14,f-15
+
+if you are not understand this binary number system you cannot understand bitwise operator 
+
+number - bit wise binary number syste
+binary number system  - number
+ 
+and 
+bitwise and
+or 
+bitwise or 
+
+xor -- xclusive or 
+=== 
+
+15th === 
+
+package = library == collection of module
+module = collection of function 
+math has many inbuild() and not rquired to rememeber all inbuild ()
+from math import * --> then only it fetch all inbuild() 
+input() bydefautl read a string 
+
+input() with string & type cast string to int
+
+input() we pass only number 
+
+input() we pass string 
+
+input() with number
+input() with string with index 
+input() expression 
+
+=== BASIC PYTHON WE ARE COMPLETED 
+	variable
+	data type 
+	type casting
+	inbuild data structure
+	basic operator 
+	bitwise operator
+	bitwise number system
+	math module 
+	from, import, as 
+	input() - string index, eval, 
+	cli python code test	
+	sys with sysarg which be used in cli 
+
+=== NUMPY 
+
+NUMPY is library handle multidimension array
+ 1d 
+ 2d 
+ nd  
+
+usages of numpy
+
+arithmetic operation
+statistical operation
+bitwise operator 
+copy & view array
+stacking
+searching, sorting, counting
+math operating 
+linear algebra
+broadcasting
+matrix operation
+
+==== 17th  
+PIL - python imaging library 
+
+np.random.seed() -- it wont generate reandom number ( fix )
+
+
+==== 18th
+
+POC ( PROOF OF CONCEPT) 
+
+DOMAIN -- SPORTS DOMAIN 
+PROJECT - DATA ANALYST
+CLINET - ESPN | STAR SPORT 
+COMPNARY -- NIT 
+EMPLOYEE  -- 530PM BATCH 
+
+Client -- find insight , trend , business analysi from the ipl matches 
+Client has sent this historical data to nit and nit share the dataset to 530pm batch
+Data analyst you need to understand patter, document share to the client 
+
+==== 19th
+
+4day -- many things about numpy in less time 
+use the doc 
+
+data is 2 type 
+
+	structure == label data = supervised learning ==== MACHINE LEARNING 
+		excel sheet 
+		csv 
+		data which contain in table format 
+	unstructured == unlable data = unsupervised learning  === Ai, Genai, Agentic AI 
+		pdf
+		image
+		voice 
+		xml
+		video
+		audio
+		json
+		bson
+		website 
+		
+ data type 
+ data structure 
+ matrix 
+ table -- row * column 
+
+Table -- Data Frame
+
+excel sheet -- dataset 
+columns == attributes, feature , variable 
+
+df.head() | df.tail()
+df.read_excel | df.info() | df.isnull() | df.isna()
+df.shape |df.isnull().sum() | df.columns()
+
+pandas for categorical data system bydefaul capture as object 
+you need to convert object to categorical data then visualization 
+---
+Descriptive Stats -->
+--
+.describe()-- alwasy gave us only numerical data information  not give categorical attribute information
+
+rename attribute from the existing df 
+how tadd add new columnbe from the existing df ( tbales)
+table you can found organization db 
+
+axis- 0 -- rows | axis 1 -- columns 
+
+1- 10 member ( 1 member earning 9 member are eating) -- economey alwasy done 
+2- 10 memer( 8 member earning ) 
+	country economy depends only 
+
+univariate analysis -- plot the graph using 1 variable is called -- univariate analysis 
+
+=== 23rd 
+pandas + plt + sns 
+outlier - statstistic outlier is the datapoint which is very far from other individual 
+univariate analysis  - plot the graph using 1 variable 
+bivariate anlaysis - plot the graph using 2 variable 
+multivariate analysis - plot the grapy using >2 variable
+OUTLIER  == ANOMALY DETECTION 
+=====
+1> importing data into python
+2> Dataframe via panda
+3> exploring datasets: head()tail()info()describe()
+4> Renaming columns
+5> subsetting dataframes
+6> Basic operations with dataframe
+8> filtering data frames
+9> seaborn introduction -- .distplot | .boxplot | .lmplot(fit_reg) | outlier | hue parameter 
+10> univariate | bivariate | multivariate analysis 
+===
+kaggle.com is reposireoty used by datascientist or data anlayst acrose the globe 
+huggingface.com is another used by genai, llm to llm model 
+uci.com 
+Industry -- you got any client requirement 
+Would you solve 1 day -- highly imposible 
+kaggle.com 
+imdb -- datbase ( any movi rated by imbd) 
+20m - 2cr records 
+why data analysis is excel is limited
+
+====== 24th  
+conditional statment 
+loops
+function 
+
+conditional statment 
+	if 
+	if else 
+	if elif else 
+	nested if 
+	
+in organization we should not write multiple if why ?
+	 DEBUGGING IN PYCHARM 
+It will check each and every condition even though not requred, memory execution wil be slow 
+
+if use case has more then 1 condition 2 condtion ( nested if ) 
+	
+https://www.geeksforgeeks.org/python/conditional-statements-in-python/
+conditoional statement is completed 
+
+This some thing you need to sit and work to build logic ()
+
+ conditional statemeter we are completed 
+ ---
+ LOOPS -->
+ --- 
+ WHILE LOOP  -- whne ever we have condition 
+  FOR LOOP -- when ever you have sequence ( datatype, list, tuple, set, dict) 
+break 
+continue
+pass 
+
+==== 26th 
+
+pip install streamlit 
+python streamlit run app.py 
+python3 streamlit run app.py -- try this code the one who got error 
+
+everyone today i want you to try in vs code 
+
+web fraamework -- django, flask, fastapi 
+add html -- 
+
+framework llm -- streamlit , gradio 
+
+cloud
+	docker , kubernates 
+	
+st.title()
+st.header()
+st.subheder()
+st.write()
+st.slidebar()
+st.sidebar()
+st.sidebar().header() 
+st.sidebar.text_input
+st.sidebar.slider()
+st.sidebar.selectbox()
+st.dataframe()
+st.checkbox()
+st.button() 
+
+====== 27th 
+
+There is no project you can build without function 
+Eda - foundation for ml 
+eda with python for data cleaning 
+eda integration to llm s 
+
+
+function are divide into 2 part --> alwasy define with (): enter bydefaul it consider 4 spaces 
+
+1- Inbuild()  -- print() len(), max(), min() , head(), tail(), etc 
+2- user defned () -- always starts with def keyword 
+
+def function_name(): 
+	print('hello team')
+function_name
+function with argument 
+function without argument 
+
+whenever you are working on function make sure do not print print() as much as try to avodi id tab
+----
+function arguments -->
+---
+function argument categorise with 2 part -->
+
+1- formal argument -- we will define the at the time of funcation defing 
+
+2- actual argument -- while we call thefunction 
+		positional argument -- done 
+		keyword argument -- done 
+		default argument -- done 
+		variable length argument	 (arg) -- done 
+		keyword variale lenght argument ( kwarg) -- keyword + variable lenght 
+
+	
+what ever i will teach you now that same concpet you will be using 
+(operator overloading) which is the part of polymorphism ( many + form) 
+
+==== 29th 
+llm tools 
+	paid one 
+	free one 
+
+1- ollama.com -- download the software & Install the software 
+		if you system ram is 4gb then might it would be slow 
+		make sure please check the size of the software from controll pannel 
+
+2-  We check that size of the application 5.9 gb ( 4gb ram) it wont work 
+
+3- chat gpt also provide wrong & inaccuracy responese guys ???
+=== 
+llm model + genearative ai 
+
+=== 30th 
+EDA ( explaratory data analysis) 
+ML -- core subject 
+
+Eda is foundation of  machine learning -- how ??? 
+
+1- EDA technique is help to convert raw - clean -- ml model 
+7 technique need to follow 
+
+=================
+0- Busines understanding  -- 
+		bank, service, manuface, scm, fmcg,  product
+		no business run with out customer | 
+		all non technical job
+		
+1- Variable identification == (colum name in excel == variable == attribute)
+				DV (y)
+				IV(x1, x2, x3---)
+				
+2- univariate analysis
+3- bivariate 	analysis
+4- outlier treatment '
+5- missing variable treatment 
+6- variable imputation 
+7- variable createion 
+=====
+
+1- Variable identification  
+		Indepedent variable (x1, x2, x3, x4, x5---xn) = non target attribute = non predicted attribute 
+		Dependent variable (y) -- target variable -- predicted variable 
+		
+family () -- 4 attribute 
+
+	dad ( govt employ) -- dependent variable   ( y) | 
+	mom ( hose wife) -- independent variable (x1) 
+	son (4th ) -- independent variable (x2)
+	daughter (3rd)  -- independent (x3)
+	
+math formul (y = x1 + x2 + x3 ) 
+this formula ml == (y = m1x1+m2x2 +m3x3)
+
+
+how eda is connected to machine learning -->
+
+ML technique 3 part 
+			Regression  -- 
+					dependent variable is continuous  this is called regression 
+				example -- petrol price 
+									gold price 
+									stock price 
+									vehicel price 
+									crypto price 
+									land price
+									ticket price
+									flight price 
+									electricity bill price 
+									house price 
+Regression model -->
+		simple linear regression 
+		multiple linear regression 
+		polynomial regression 
+		lasso regression 
+		ridge regression 
+		svr regression 
+		knn regression 
+		time series 
+									
+
+			Classification  -- dependent variable is binary or category 
+						yes | no -- 1 | 0
+						win| loos 
+						+ve reve | -ve review 
+						crash | not crash
+						hot | cold 
+						fraud | non fraud 
+						spam | non speam
+						+Ve | -ve 
+						pass | fail 
+						up | down 
+						
+classification algorithm -->
+		logistic regression  ( prob algo)
+		svm 
+		knn
+		naive bayes ( beysian theorem)
+		dt 
+		rf 
+			
+					
+Clustering -- -100 | rating  -5  | grouping
+		pca ( principal compoenenet analysis)
+		k means clustering 
+		
+=== ml will be completed 
+
+
+ML 
+	SUPERVISED LEARNING == STRUCTURE DATA == LABELED DATA 
+			REGRESSION - dv is continus ( regression algorithm)
+			CLASSIFICATION -- dv is binary or category 
+structure data will store in (strucutre database = sql db - rdbms)  ( mysql, postgre, oracle
+			
+			
+			
+	UNSUPERVISED LEARNING == UNSTRCUTURE DATA = UNLABLE DATA 
+			CLUSTERING ( no  dependent variable) groupinng
+unstructured data store in unstructure db == no sql db -- non relation dbbm 
+		mongo db, cassandar, hbase 
+		
+vector db ( llm model text are store vector format) 
+	RAG MODEL 
+			pinecond, faiss, chroma, milvus, qdrant, 
+	
+			
+REINFORCEMENT LEARNING 
+			model will interact climat, sitatuation 
+			agents will comes in to her
+			
+
+1- variable identification	
+					IV (x1, x2--
+					DV (y)
+					relavant attribute  ( every time we need to build the model with relavant attribute) 
+					irrelavant attribute ( we need to remove the irrelaven attribute ) 
+					
+==== 31st
+1- Variable identification == (colum name in excel == variable == attribute)
+				DV (y)
+				IV(x1, x2, x3---)
+				
+2- univariate analysis  - completed 
+		
+3- bivariate 	analysis
+		corelation -- relation amoung 2 attribute is called corelation 
+				+Ve corr ( 0 to 1)
+				-ve corr (-1 to 0)
+					no corr  ( 0) 
+				
+		range of the corelation -1 to 1
+		
+4- outlier treatment 
+		we detect outlier based on some graphs  
+		this outlier will impact ml algorithms 
+		real time you cannot remove outlier but we can adjust by add prob function 
+		prob func is called sigmoid curve 
+			
+5- Missing value treatment 
+					
+In datatset 2 types of variabe 
+			numerical & categorical 
+	numerical -- number | categorical -- text 
+		
+in the dataset if numerical values are missing 
+		if numerical datas are missing then we need to implement mean, median, mode strategy 
+
+ how to fill missing value in your existing project ?
+	If numerical value are missing -- mean, median, mode
+	If categorical value are missing -- mode & knn startegy 
+	
+6 & 7 -->
+	variable createion & variable transformation 
+	
+TRANSFORMER also called as IMPUTATION TECHNIQUE 
+
+		dummy variable or one hot encoder - convert categorical data to numerical data
+							no. of classes == no. of classifier 
+		labelencoder - covert categorical value to numerb 0,1,2,3--
+==== EDA IS COMPLETED 
+
+=== 2nd 
+
+
+str.replace(r'\w')
+
+non word character -
+
+eda -- we have complete only 1 technique
+	missing value treatment 
+			numerical value  -- mean, median, mode 
+			categoical value -- mode 
+
+==== 3rd 
+From 12th onwards --- session is going to back to 5:30pm 
+eda with llm --- data analyss use llm to automise 
+
+monday -- statistc 
+
+
+emp data - raw with expresession 
+clean data -- which we removed all noisy character |, ;
+clean_data -- that data is store in memory  
+	clean data -- clean datat from memory to system 
+			from the syste 
+
+what are the steps to follow for project data cleaning -- 
+
+eda out of 7 techniques 
+		1- missing value treatment 
+					numerical & categorical 
+		2- univariate analysis
+		3- outlier treatmet  
+		4- bivariate treatment ( +ve corelation) 
+		5- variable identification 
+		6 & 7-- variable creation & variable imputation we been discussed 
+		
+data analyst -- which shape your career 
+Gradio -- by remove outlier ( ml model accuracy) 
+	
+	
+EDA -- Workshop 
+Matplotlib -- Workshop 
+Seaborn Workshop 
+
+eda workshop -->
+https://www.youtube.com/watch?v=tTT7XJO30cM&t=4358s
+
+matplotlib -->
+https://www.youtube.com/watch?v=ChJEb5Usxug&t=3958s
+
+seaborn -->
+https://www.youtube.com/watch?v=JhfTZ1QWN6A&t=4561s
+
+==== 5th 
+
+
+
+
+
+
+
+
+	
+					
+
+				
+			
+					
+					
+			
+	
+ 
+
+		
+		
+		
+			
+
+		
+4- outlier treatment '
+5- missing variable treatment 
+6- variable imputation 
+7- variable createion 
+
+
+Variable identification -- completed 
+Univariate analysis -- plot the graph using 1 variable 
+Bivariate -- plot the grpah using 2 variable 
+
+
+
+
+
+ 
+
+			
+		
+		
+
+		
+		
+		
+
+
+
+
+
+
+	
+	
+	
+			
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+----
+Error terms --> 
+----
+Name error
+Syntax error
+zero division error 
+index out of range error 
+type error
+value error
+
+^^^^^^^^^^ONLINE MENTOR ==>
+Data science mentor link-1: 
+	https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+
+Data Science link-2
+	https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+Password - 112233
+
+OFFLINE METOR (3rd Floor) 
+========================
+===Recording session =====
+Backup Videos:
+Day 1: https://youtu.be/FstXAG5czbo
+Day-2: https://youtube.com/live/oKzJ5BE8vVc?feature=share
+Day-3: https://youtu.be/Hgx5S1JNbTA
+Day-4: https://youtu.be/U5KBo4GWxEY
+Day-5: https://youtu.be/hAS0Mmh_SdU
+Day-6: https://youtu.be/yW5wxTqLiVE
+Day-7: https://youtu.be/U5-QMGhtSpE
+Day-8: https://youtu.be/RdMPrFRNg_s
+Day-9 https://youtu.be/QN2U2LuNHxw
+Day-10 https://youtu.be/MTSA5ugdQTE
+Day-11 https://youtu.be/RfneQ_xaPHA
+Day-12 https://youtu.be/DwdyBLgyYuU
+
+
+=========
+📂Drive Link: 
+https://drive.google.com/drive/u/0/folders/18jHbEiaw6SSBZEuKmioWqM1bjV0no0Y7
+📂Whats app community group : 
+https://chat.whatsapp.com/JmT4KftAduU7kP7dNEoTV0
+
+============= ADMIN DETAILS
+Online Admin -- +91 9154861173 Mr.Areef sir 
+Online Admin -- +91 9133343369 Leena Madam Admin 
+Offline Admin -- Mr. Bheem sir.
+
+============
+👉🏻 Python Software Installation Video: https://youtu.be/PhIAQ8rE2xc?si=_AhLmMSbwR8170Mz
+
+
