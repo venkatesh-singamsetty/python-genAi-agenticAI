@@ -1463,7 +1463,222 @@ https://www.youtube.com/watch?v=ChJEb5Usxug&t=3958s
 seaborn -->
 https://www.youtube.com/watch?v=JhfTZ1QWN6A&t=4561s
 
-==== 5th 
+==== 5th
+
+what is pandas -- ocean ( no need to go indepth )  only pandas 
+pands + plt + sns + np  -- project
+
+meal -- mutliple itesm ( rice + chapt + swee + ice + curt) 
+
+what if integrateion llm model ( ollam) + dataframe 
+
+dataset + ollama + gemma llm 
+		we got respone  we have few missing valu e-14
+eda every attribute we clean .
+
+create a folder  -- who ever got please fix it later 
+for loop to clean everything together
+
+
+from the day-1 till today -- we only focus on strucuture data 
+			llm + dataset == insights 
+					statstic + ml 
+
+Unstrcuture data -- AI 
+GEN AI 
+LLM 
+PROMPT 
+AGENTIC AI 
+
+=== Intro statstic 
+Stats for ml 
+
+1- population vs sample
+2- descriptive statstic
+3- inferential statstics 
+4- advance stats 
+5- r2, adjuste r2, anova, type 1 & type 2 erros , mae, mse, rmse 
+
+ml -- regression model 
+		classification model 
+		clustering model 
+		
+=== today check the code which is ( check the code ) please ask me code is not working 
+			
+========== 6th 
+
+stats -->
+
+1- population vs sample
+2- descriptive statstic
+3- inferential statstics 
+4- advance stats 
+5- r2, adjuste r2, anova, type 1 & type 2 erros , mae, mse, rmse 
+
+sampling -- population to sample 
+inference -- sample to population 
+population -- parameter | sample -- statistics 
+statistics -- 90% of the data we going to work in sample data 
+
+1 - population formula & sample formula 
+
+2- Descriptive stats (	.describe  )
+		measure of central tendency -- clear 
+					mean
+					median
+					mode 
+		measure of symmetry 
+				skewness -- where the data stays 
+				kurtois  
+		measure of variablility 
+				variance 
+				standard deviation 
+				
+
++ve skew == mean >median & Mode  ( data is at left  & Outlier is at right ) 
+
+0 skew == (mean = median = mode)data is at center & no outlier )
+		this graph is called (normal distribution == bell curve == gausian distribution = 0 symmetric)
+		
+-ve skew == mode > median > mean ( data is at right & outlier is at left)
+normal distribution == gausian distribution == bell curve 
+
+
+scipy. python intrdouce those thing ( numpy, panda ) -- ordinarl; 
+--- 		
+kurtosis  -->
+---
+
++ve skew = +ve kurtois  == platykurtic 
+-ve skew = -ve kurtosi == leptokurtic 
+0skew == normal distribution == mesokurtic 
+
+when you guys working on dataset number -- graph behaveiou is difference 
+everytime we need to must focus on normalt distribute = 0 skew ( mean = median = mode)
+
+variance 
+standard deviation 
+
+population mean -- Mu  | sample mean = x-
+population variance -- sigma)2 | sample variance = S2 
+Pop
+Variance -- spread of the data around mean 
+
+	All formula .describe() 
+	
+
+population vs sample -- we complete 
+descriptive stat --
+		central tendency -- mean, median, mode
+		assymetry - skewness & kurtois
+		variability -- variance and standard deviation 
+		
+inferential stats --
+		probability 
+		distribution  -- born from prob 
+		using help these prob we will adjust outlier 
+		
+dice has how many side -- 6 side 
+
+if you roll a dice -- proba of getting 1 -- 1/6
+pro of getting 2 - 	2/6
+pro of getting 3 - 3/6 
+	
+head or taile 
+pr 1/2 1/2 
+roll 1 dice -- uniform distribution 
+
+===== 6th
+
+2dice has how many side -- 12 side 
+when you roll 2 dice what would be the prob of getting 1 
+
+distribution concept borns from -- probability 
+
+roll of 1 dice -- uniform distribution
+roll of 2 dice -- normal = gausian distribution ( m = m = m) 
+----
+confidence interval -->
+----
+10th class board exam & exam went well 
+
+kid go home - 95% i will be confident that score 80-90 
+		after result if the kid got score 85  ()
+				acept the confidence  
+				
+99% confidnece score (90-98) 
+		accept the confidence 
+		
+produt base company 
+	price tag will desing just like that ( lot of statistical test is going on) 
+	
+how to test | generate review | 
+
+first divsion -- 60% 
+a ++ -- >80% 
+distinction -- 90% 
+
+=== who decide the % 
+
+researcher has done that ( lot example they have taken)
+
+statistical test ( test alwasy will perforn based on 95% & 99% only) 
+
+95% confident what is errror -- 1-alphs ==alpha is error terme 
+
+					
+confidence interval -- 
+	lower confidence point -- estimates 
+	upper confidence point  -- estimaates 
+	
+confidence interval divide into 2 part 
+		population == population variance known = z-test 
+		sampel == population variance unknow = t-test 
+
+===
+regressio model -- after buil ml model -- validat ml model -- statica r2, adjusted r2 
+classification - after ml cmodel -- valieation -- score accurcay -- confusion matrix 
+
+
+standard error - sigma / root n
+
+
+=== 8th
+
+confidence interval 
+	population - z test  
+	sample - t test 
+
+99% problem statment we will be working on t-test sample not population 
+
+stats is an ocean 
+math is an ocean 
+you need to teate all the technoloy 
+ 
+in the market new product lunched -- who will keep the price tag ?
+ does the price tag will decision or some test case behined the scene 
+ 
+by ranodm peopr exper, market -- opiniou is required 
+	once you got everybody opineio you need to test case 
+			z-test or t-test 
+			
+how to compute the t-test or z-test 
+how to integreate this learning produce 
+
+use case -- 
+	what would be average salary of datasceintist in usa ?
+	
+30 random people 
+			30 reandom answer 
+being a statistician you need to test this use case 
+
+		95% confidence answer is betwee -- range 
+		99% confidence answer is between -- 
+
+	
+
+
+			
 
 
 
@@ -1487,18 +1702,6 @@ https://www.youtube.com/watch?v=JhfTZ1QWN6A&t=4561s
 		
 		
 			
-
-		
-4- outlier treatment '
-5- missing variable treatment 
-6- variable imputation 
-7- variable createion 
-
-
-Variable identification -- completed 
-Univariate analysis -- plot the graph using 1 variable 
-Bivariate -- plot the grpah using 2 variable 
-
 
 
 
