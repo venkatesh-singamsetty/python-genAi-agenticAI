@@ -59,8 +59,7 @@ gen ai, agenti ai programme we need to 1 program language
 
 python -- to learn we need to install some application 
 
-
-ide -- user or developer write the code, debug the code & get output
+Ide -- user or developer write the code, debug the code & get output
 
 popular ide -- 
 
@@ -70,14 +69,11 @@ popular ide --
 		spyder
 		google colab
 
-
 online team -- I proper wifi connect 
 
 == vs code explanation 
-
 Download from google & install as per your os 
-
-install some extension for ds, da, ai, ml, genai, agentic ai, llm 
+Install some extension for ds, da, ai, ml, genai, agentic ai, llm 
 
 1- AREPL for python
 2- AutoDocstring - Python Docstring Generator
@@ -2030,7 +2026,6 @@ can you please explained what be  dataset size where you build ml models ?
 		 bring the answer tomorrow ? clear
 		 
 === 22nd 
-
 50 line code -- we built model regressor which holds slr algoriytm 
 algoritm was fited on x train , ytrain 
 
@@ -2085,9 +2080,74 @@ you build ml model and which concept you will apply to find out best portfolio b
 6- how did we find out irrelatve attreibute to my busines 
 7- p-value 
 
+===== 23rd
+
+from the 1st code till 30 we built ml model 
+
+over all i have 7 variable 
+
+constant, 3dummy, digita, r&d, promotion 
 
 
+https://www.statsmodels.org/stable/api.html -- future reference 
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 Profit   R-squared:                       0.951
+Model:                            OLS   Adj. R-squared:                  0.945
+Method:                 Least Squares   F-statistic:                     169.9
+Date:                Fri, 23 Jan 2026   Prob (F-statistic):           1.34e-27
+Time:                        18:19:33   Log-Likelihood:                -525.38
+No. Observations:                  50   AIC:                             1063.
+Df Residuals:                      44   BIC:                             1074.
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.1794      0.164      7.204      0.000       0.849       1.509
+x1             0.8060      0.046     17.369      0.000       0.712       0.900
+x2            -0.0270      0.052     -0.517      0.608      -0.132       0.078
+x3             0.0270      0.017      1.574      0.123      -0.008       0.062
+x4            41.8870   3256.039      0.013      0.990   -6520.229    6604.003
+x5           240.6758   3338.857      0.072      0.943   -6488.349    6969.701
+==============================================================================
+Omnibus:                       14.782   Durbin-Watson:                   1.283
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               21.266
+Skew:                          -0.948   Prob(JB):                     2.41e-05
+Kurtosis:                       5.572   Cond. No.                     8.45e+05
+==============================================================================
+feature elimination using p-value ( backward elimination ) RFE (Recursive feature elmination) 
 
+=== overfitting vs underfitting  
+
+train the model with more attribute then overfitting problem comes 
+if overfitting problem will happen then model give less accuracy high error 
+===
+train the model with less attribute then underfitting problem happend 
+if underfit model will less accuracy and high error 
+===
+what are technique we will implment if model underfits 
+		by adding more realavat attribute 
+
+=====
+Technique we used if model overfitting happend 
+	PCA (Principal componenet analysis) 
+	Cross validation
+	Ensamble learning 
+	Drop out the neurons  | 
+	Regularization (l1, l2) 
+	
+Regularization(l1 - lassi, l2-ridge ) 
+	How regualarization technique reduce overfitting 	
+
+===  
+
+ 
+
+
+	
+	
+	
 
 
 
