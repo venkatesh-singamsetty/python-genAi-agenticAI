@@ -2140,18 +2140,128 @@ Technique we used if model overfitting happend
 Regularization(l1 - lassi, l2-ridge ) 
 	How regualarization technique reduce overfitting 	
 
-===  
+===  24th
 
- 
+ml model overfit -- less accuracy 
+cnn model overfit -- cat become dog 
+genai model overfit -- ipl ( stock market) 
+
+if we train the model with more attribute -- overfit
+		if i reduce the attribute -- best model ( 1 scenario)		
+if independent variable coeffeiceint are very high then also overfittin will happen 
+		
+	1- either more attribute -
+	2- eithe high coef of independent variable 
 
 
+Regularization -- 2 part 
+	ridge == l2  
+	lasso == l1 
+	elasticnet == (l1  + l2)
 	
+regularizion is technqiue to scale down high coef - low coef to reduce overfitting -- l2 ridge 
+		l2 regression or l2 regularization 
 	
+l1 regularization is one of the techniqe it reduce high coef - 0 -- 
+l1 or l2 -- which feature elimination ( l1 is called feature elimination ) 
+
+training instistue vs orgnaization 
+
+trainin inst -- 1 or 2 
+oragnizta -- 2 month or 3 month
+===
+
+banking project -->
+---
+everytime we not build reguarlization model 
+
+every algoriytm has inbuild parameter called (reguarlization) -- model itself coeffcient fittend 
+	when we build advane modle -- this 
+===	
+what l1, l2 doese, thoery, practicle 
+====
+learned = 	FEATURE ENGINEERING -- eda technique (variable identification, uni,bi, cor, imputation, transformaton) 
+learneing == FEATURE SCALING -- normalization, standarization 
+learned = FEATURE SELECTION -- RFE based on p-value, Lasso regression, based on strong busines understanding 
+		
+without model accuracy will not accuracy 
+
+normalization also called min - max scaler ( 0 - 1) 
+		age | salar -- ( 0 - 1 )
+		
+standarization -- we will get normal distributeion hear 
+normalization -- we wont normal distribution 
+
+=== logistic, svm, knn, naive baye, xgb, lgb, dt, 
+=== end to end regression model 
+=== end to end classificatio model 
+=== 
+	
+what could be gold price -- next month ( regression number )
+
+regression model prediction alwasy be number only 
+classifcaiton model prediction alswasy binary dataa 
+to get preidction we have to apply all these technique 
+
+==== 26th 
+poly nomial --- we increase degree of independent variable  
+		b1x1 + b2x12 + b3x13
+		
+
+use case -- classificaiton model 
+
+
+1- dataset ( attribute) -- busines property | dimension, feature, varible 
+2- dv 
+3- dv -- reg or classifiction 
+4- if it is classificaiton model 
+		logistic regression 
+		svm 
+		dtr
+		rf
+		xgboost 
+		lgbm
+		knn
+5- you got highest model accuracy 
+6- deployment 
+
+1 project we can build -- all ml model 
+we will get all model score -- accuracy -- high 
+
+== 
+linear regression model -- 
+6.5 employee level -- prediction -- 330 -- degree 1
+
+poly model 
+6.5 emply -- degree 2 - 189 
+6.5 emply - degree 3 - 133 
+6.5 emply - degree 4 - 158
+6.5 empl - degree 5 - 174.8 -- 
+6.5 employ - degree  174 
+
+overfittin & underfit when we split the data | hear we are not split the data 
 	
 
+1- we have dataset 
+2- emplo salary 
+3- one employe quite
+4- no physical hr then wanted to introduce agents
+5- model -
+			linear model -- 6.5 position -- 330 
+			polynomial model -- 6.5 - degree 5 - 174.8 
+			svr model -- 
+			knn model --
+			dt model 
+			random forest model -- 
 
 
- 
+regression -- svr , knn regressor , dt regressor , rf regressor 
+
+classification - svm , knn classifier, dt classifier , rf classifier 
+
+			
+
+
 
 
 
@@ -2212,7 +2322,12 @@ LIST OF COMPLETED TOPICS -->
 									missing value treatment, imputation technique, transformer, variable creation 
 8- python -- basic python , advance -- loops, function , function, local, global 									
 
-	
+9- ml -- data preprocessing pipelien, regression model we built 
+						simple lineare, multiple linear, l1, l2 
+						
+						
+		
+
 	
  
 
