@@ -2352,8 +2352,46 @@ ML -- Sigmoid curve ( use prob function to adjut the outler if the dataset has) 
 Sigmoid activation function 
 why we called logistice regression is classifcaiton model -- classifcation model 
 
-=== 28th 	
+==== 28th 
 
+lineare regression vs logistic regression 
+deeplearning-- ann , cnn, rnn -- sigmoid activation function 
+
+logistic regression aka -- logit or maxent classifier 
+
+test case :1 --> 25% testing phase, standardscal scaling -- ac -- 89%  
+test case:2 -->  20% testing phase, standard slcare -- ac -- 92.5% 
+test case:3 -->  20% testing phase, normalization -- ac - 72.5%
+test case:4 -->  can you cange random state 
+						random- state ==100 ( ac --  82.50)
+						random state = 51 (ac - 88.75)
+						random state = 41 (ac - 78.75)
+						random state = 21 (ac - 86.25)
+						random_state = 11(aC - 82.50) 
+						random_state = 0 ( ac - 92.50) 
+test case - 5: please retrain model hyperparemter tunning () -- you can try in home & hypererparameter table 
+
+1. ac -- 92.50 bias - 82.5, variance - 92. 50 ==>  best fit 
+2. ac - 92.50 bias - 34 variance - 90  ==> overfit 
+3. ac - 92.50 bias- 90 variance - 34 ==> underfit 
+4. ac - 34 bias - 90 variance- 89 ==> low acuracy model 
+
+== so far we understood what is logit, how to build model classifier isname of model 
+== logistic regression 
+
+what next ??  
+
+so far we build model on historical data -- we have dependent variabel 
+
+being ml model i wante to predicti future customer -- prediction 
+
+customer vehicle purchase 
+
+1st feb -- tata.com -- form has filled -- record in store in db 
+in db --future records will stored 
+behind the scent ml guy will predicton -- proba of this custoerm purchase the -- 1 or 0 
+
+=== please validation data can you 
 
 
 
